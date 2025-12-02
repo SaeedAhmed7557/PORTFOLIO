@@ -59,9 +59,15 @@ function App() {
           </p>
           <div className="hero-buttons">
             {/* Replace # with resume link */}
-              <button className="btn primary">
-    Download Resume
-  </button>
+             <a
+  href="/Shaik_Saeed_Ahmed_Resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="btn primary"
+>
+  Download Resume
+</a>
+
 
             <a href="#contact" className="btn outline">
               Contact Me
