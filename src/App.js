@@ -60,7 +60,7 @@ function App() {
           <div className="hero-buttons">
             {/* Replace # with resume link */}
              <a
-  href="/Shaik_Saeed_Ahmed_Resume.pdf"
+  href="/Resume FD.pdf"
   target="_blank"
   rel="noopener noreferrer"
   className="btn primary"
