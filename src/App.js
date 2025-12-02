@@ -248,7 +248,7 @@ function Navbar() {
   return (
     <header className="navbar">
       <div className="nav-logo" onClick={() => scrollTo("home")}>
-        SSA
+        PORTFOLIO
       </div>
       <nav className="nav-links">
         {["home", "about", "skills", "projects", "experience", "education", "contact"].map(
